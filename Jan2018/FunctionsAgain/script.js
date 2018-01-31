@@ -1,0 +1,1 @@
+console.log(Euler1(10));
